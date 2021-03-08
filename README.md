@@ -1,5 +1,7 @@
 # interlok-prometheus-demo
 
+__Archived since pushgateway is deprecated, so we have removed the corresponding components in Interlok 4.x__
+
 ## What is this
 
 This is a complete interlok instance show-casing generated metrics being fired into Prometheus and then viewed in a Grafana dashboard.
